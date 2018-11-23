@@ -1,0 +1,17 @@
+#include "stm32f10x.h"
+#include "stm32f10x_rcc.h"
+#include "stm32f10x_gpio.h"
+#include "stm32f10x_tim.h"
+#include "stm32f10x_adc.h"
+#include "stm32f10x_dma.h"
+#include "misc.h"
+#include "lcd.h"
+#include "touch.h"
+
+__IO uint32_t ADCConvertedValue[2];
+
+void RCC_Configuration(){
+	RCC_AHBPeriphClockCmd(RCC_AHBPeriph_DMA1, ENABLE);
+	RCC_APB2PeriphClockCmd(RCC_APB2Periph_ADC1|RCC_APB2Periph_GPIOA|RCC_APB2Periph_GIPOD, ENABLE);
+
+}

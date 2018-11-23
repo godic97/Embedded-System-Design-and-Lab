@@ -1,0 +1,10 @@
+config_db_path=C%3A\\Program Files\\DS-5\\sw\\eclipse\\dropins\\plugins\\com.arm.debug.configdatabase.data.community_5.18.0.20140404_100548;C%3A\\Program Files\\DS-5\\sw\\debugger\\configdb;C%3A\\Users\\Team03\\Desktop\\1121\\week12\\PSU_DB;
+config_db_path0_defaultid=com.arm.ds\:1
+config_db_path0_enabled=true
+config_db_path1_defaultid=com.arm.ds\:0
+config_db_path1_enabled=true
+config_db_path2_enabled=true
+config_db_path2_name=PSU_DB
+eclipse.preferences.version=1
+enabled_config_db_path=C%3A\\Program Files\\DS-5\\sw\\eclipse\\dropins\\plugins\\com.arm.debug.configdatabase.data.community_5.18.0.20140404_100548;C%3A\\Program Files\\DS-5\\sw\\debugger\\configdb;C%3A\\Users\\Team03\\Desktop\\1121\\week12\\PSU_DB;
+last_connection_browser_settings=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<section name\="prefs">\r\n\t<item value\="525" key\="DIALOG_WIDTH"/>\r\n\t<item value\="164" key\="DIALOG_Y_ORIGIN"/>\r\n\t<item value\="281" key\="DIALOG_HEIGHT"/>\r\n\t<item value\="273" key\="DIALOG_X_ORIGIN"/>\r\n\t<item value\="1|\uFFFD\uFFFD\uFFFD\uFFFD \uFFFD\uFFFD\uFFFD|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|\uFFFD\uFFFD\uFFFD\uFFFD \uFFFD\uFFFD\uFFFD" key\="DIALOG_FONT_NAME"/>\r\n</section>\r\n
