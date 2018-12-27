@@ -1,0 +1,2 @@
+flash load "C:\Users\Team07\Desktop\term\term\flashclear.axf"
+flash load "C:\Users\Team07\Desktop\term\term\Debug\term.axf"
